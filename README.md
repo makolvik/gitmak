@@ -10,7 +10,7 @@ I have created my first git and i liked it
 It was very usefull for me. Now, i know main commands, and i can use it in future.
 Here is my screenshots.
 
-https://github.com/makolvik/kottans-frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md
+
 
 ## Git Collaboration
 
@@ -18,13 +18,16 @@ This task helps me to improve my Git hub skills
 
 https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md
 
-<h1>Front-End Basics</h1>
-<h1>Intro to HTML & CSS</h1>
-<h1>Responsive Web Design</h1>
-<h1>HTML & CSS Practice</h1>
-<h1>JavaScript Basics</h1>
 
-<ul>
-<li style="color:green;">Git and GitHub</li>
 
-</ul>
+<ol>
+<li style="color:green">Git and GitHub</li>
+<li style="color:green">Linux CLI, and HTTP.<a href="https://github.com/makolvik/kottans-frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a></li>
+<li style="color:green">Git Collaboration</li>
+<li style="color:green">Front-End Basics</li>
+<li style="color:green">Intro to HTML & CSS</li>
+<li style="color:green">Responsive Web Design</li>
+<li style="color:green">HTML & CSS Practice</li>
+<li style="color:green">JavaScript Basics</li>
+<li style="color:green"></li>
+</ol>
