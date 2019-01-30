@@ -23,3 +23,8 @@ https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/lis
 <h1>Responsive Web Design</h1>
 <h1>HTML & CSS Practice</h1>
 <h1>JavaScript Basics</h1>
+
+<ul>
+<li color="green">Git and GitHub</li>
+
+</ul>
