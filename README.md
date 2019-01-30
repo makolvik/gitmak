@@ -17,3 +17,9 @@ https://github.com/makolvik/kottans-frontend/blob/master/Linux%20CLI%2C%20and%20
 This task helps me to improve my Git hub skills 
 
 https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md
+
+<h1>Front-End Basics</h1>
+<h1>Intro to HTML & CSS</h1>
+<h1>Responsive Web Design</h1>
+<h1>HTML & CSS Practice</h1>
+<h1>JavaScript Basics</h1>
