@@ -25,6 +25,6 @@ https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/lis
 <h1>JavaScript Basics</h1>
 
 <ul>
-<li color="green">Git and GitHub</li>
+<li style="color:green;">Git and GitHub</li>
 
 </ul>
