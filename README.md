@@ -9,6 +9,7 @@
   <br>
   
   <li><s>Git Collaboration.</s>
+ <br>
     <a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
     </li>
