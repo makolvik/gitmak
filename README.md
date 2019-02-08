@@ -2,7 +2,8 @@
  
 <h2>General Basics</h2>
 <ul>
-  <li><s>Git Basics<p>I have made my first git and it was interesting</p></s></li>
+  <li><s>Git Basics<p>I have made my first git and it was interesting</p></s><a href="https://github.com/makolvik/kottans
+    frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a></li>
   <br>
   <li><s>Linux CLI, and HTTP.</s><p>Nothing new for me</p><a href="https://github.com/makolvik/kottans
     frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a></li>
