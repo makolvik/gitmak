@@ -36,7 +36,6 @@
   <li><s>JavaScript Basics</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
-  <li>Document Object Model<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
-    Screenshots</a>
+  <li>Document Object Model
  <p></p></li>
 </ul>
