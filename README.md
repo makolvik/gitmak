@@ -30,9 +30,6 @@
   <li><s>Responsive Web Design</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
-  <li><s>HTML & CSS Practice</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
-    Screenshots</a>
- <p></p></li>
   <li><s>JavaScript Basics</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
