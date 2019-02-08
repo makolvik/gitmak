@@ -4,7 +4,7 @@ My Git  for course
 <h3>General Basics</h3>
 <ul>
   <li><s>Git Basics<p>I have made my first git and it was interesting</p></s></li>
-  <li><s>Linux CLI, and HTTP.<p>Nothing new for me</p></s><a href="https://github.com/makolvik/kottans
+  <li><s>Linux CLI, and HTTP.</s><p>Nothing new for me</p><a href="https://github.com/makolvik/kottans
     frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a></li>
   <li><s>Git Collaboration.</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a></li>
