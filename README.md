@@ -27,12 +27,16 @@
     Screenshots</a>
    <p></p>
  </li>
+ <br>
   <li>Responsive Web Design<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
+ <br>
   <li>JavaScript Basics<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
+ <br>
   <li>Document Object Model
  <p></p></li>
+<br>
 </ul>
