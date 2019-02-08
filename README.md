@@ -2,18 +2,18 @@
  
 <h2>General Basics</h2>
 <ul>
- <li><s>Git Basics</s> <a href="https://github.com/makolvik/kottans
+ <li>Git Basics <a href="https://github.com/makolvik/kottans
     frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a>
    <br>
    <p></p></li>
   <br>
-  <li><s>Linux CLI, and HTTP.</s><a href="https://github.com/makolvik/kottans
+  <li>Linux CLI, and HTTP.<a href="https://github.com/makolvik/kottans
     frontend/blob/master/Linux%20CLI%2C%20and%20HTTP/list.md"> Screenshots</a>
    <br>
    <p></p></li>
   <br>
   
-  <li><s>Git Collaboration.</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
+  <li>Git Collaboration.<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <br>
  <p></p>
@@ -23,14 +23,14 @@
 
 <h2>Front-End Basics</h2>
 <ul>
-  <li><s>Intro to HTML & CSS</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
+  <li>Intro to HTML & CSS<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
    <p></p>
  </li>
-  <li><s>Responsive Web Design</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
+  <li>Responsive Web Design<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
-  <li><s>JavaScript Basics</s><a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
+  <li>JavaScript Basics<a href="https://github.com/makolvik/kottans-frontend/blob/master/Git%20Collaboration/list.md">
     Screenshots</a>
  <p></p></li>
   <li>Document Object Model
