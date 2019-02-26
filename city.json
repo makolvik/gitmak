@@ -1,0 +1,13 @@
+{
+"cities":[
+  {"City":"Kiev", "Population":"32323", "state": "Kiyv district"}, 
+  {"City":"Poltava", "Population":"1122222", "state": "Kiyv district"}, 
+  {"City":"Odesa", "Population":"1000000", "state": "Kiyv district"}, 
+  {"City":"Lviv", "Population":"22220000", "state": "Kiyv district"}, 
+  {"City":"Sofia", "Population":"765645645", "state": "Kiyv district"}, 
+  {"City":"Vishneve", "Population":"456456456", "state": "Kiyv district"}, 
+  {"City":"Irpin", "Population":"45324256", "state": "Kiyv district"}, 
+  {"City":"Borispil", "Population":"97812312", "state": "Kiyv district"}, 
+  {"City":"Yagotun", "Population":"345656756", "state": "Kiyv district"}
+]
+}
